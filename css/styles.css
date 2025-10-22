@@ -1,4 +1,4 @@
-.nav .logo-web {
+.nav .nav-list .logo-web {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -8,7 +8,7 @@
     color: #4d5ae5;
 }
 
-.nav .logo-studio {
+.nav .nav-list .logo-studio {
     color: #2e2f42;
 }
 
