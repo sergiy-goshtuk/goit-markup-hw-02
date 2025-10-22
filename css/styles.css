@@ -54,6 +54,10 @@ body{
     background-color: #2e2f42;
 }
 
+.section-our-team {
+    background-color: #F4F4FD;
+}
+
 .hero {
     font-weight: 700;
     font-size: 56px;
@@ -99,9 +103,10 @@ body{
 .team {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
     color: #2e2f42;
 }
 
@@ -123,6 +128,9 @@ body{
     color: #434455;
 }
 
+.team-list {
+    background-color: #ffffff;
+}
 .portfolio {
     font-weight: 700;
     font-size: 36px;
