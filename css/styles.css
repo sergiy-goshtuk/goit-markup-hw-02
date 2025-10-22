@@ -50,17 +50,22 @@ body{
     color: #434455;
 }
 
+.section-hero {
+    background-color: #2e2f42;
+}
+
 .hero {
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
-    background: #2e2f42;;
+    background-color: #2e2f42;
 }
 
 .button {
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -130,8 +135,9 @@ body{
 .portfolio-title {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;
+    line-height: 1.11;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
     color: #2e2f42 ;
 }
 
@@ -159,7 +165,7 @@ body{
 }
 
 .footer-text {
-    background: #2e2f42;
+    background-color: #2e2f42;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
