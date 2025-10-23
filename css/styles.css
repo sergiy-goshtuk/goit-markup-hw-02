@@ -50,6 +50,15 @@ body{
     color: #434455;
 }
 
+ul,ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
 .section-hero {
     background-color: #2e2f42;
 }
